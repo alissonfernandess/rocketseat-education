@@ -33,5 +33,5 @@ Technologies that I used to develop this app client
   - [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
   - [graphql-codegen](https://www.graphql-code-generator.com/)
 
-## Linkedin
+## 🔗 Linkedin
 Made with 💜 by Alisson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/alisson-fernandes-417bb0137/)
