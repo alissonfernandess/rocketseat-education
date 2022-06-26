@@ -21,7 +21,7 @@ CREDIT, click here: [Rocketseat](https://www.rocketseat.com.br/)</br>
 
 Technologies that I used to develop this app client
 
-- [React - WEB]
+- [React]
   - [tailwindcss](https://tailwindcss.com/)
   - [@apollo/client](https://www.apollographql.com/docs/react/get-started)
   - [@vime/core](https://vimejs.com/getting-started/installation)
